@@ -30,19 +30,19 @@
 
 ### What should I do if the mod crashes at startup (before the menu appears), if the black screen appears at startup (before the menu appears), if the game freezes at startup (before the menu appeared)?
 
-**Basically, it means that the game crashed. Mods starting from BatIM (from 10/24/2022) have error catching system, that should copy the error during such a crash. Send the error here on github. [Instruction](#how-report-issue)**
+**Basically, it means that the game crashed. Mods starting from BatIM (from 10/24/2022) have error catching system, that should copy the error during such a crash. Send the error here on github. [Instruction](#how-report-an-issue)**
 
 ---
 
 ### What should I do if the mod says that the crash occurred, but the game works?
 
-**You can skip this error, as it is not critical. These errors are also [accepted](#how-report-issue), but it's not a fact that they can be fixed.**
+**You can skip this error, as it is not critical. These errors are also [accepted](#how-report-an-issue), but it's not a fact that they can be fixed.**
 
 ---
 
 ### What should I do if the mod says that the crash occurred, and the game doesn't work?
 
-**[Send](#how-report-issue) the errors to github.**
+**[Send](#how-report-an-issue) the errors to github.**
 
 ---
 
